@@ -1,0 +1,6 @@
+Ocorreu um erro ao tentar executar o script:
+Traceback (most recent call last):
+  File "D:\Meus Documentos\Documentos\Nova pasta\SCRIPT VERIFICACAO\DILATA\executar_invisivel_dilata.py", line 34, in <module>
+    raise Exception("O script Python retornou um código de erro: {}".format(process.returncode))
+Exception: O script Python retornou um código de erro: 1
+
