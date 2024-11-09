@@ -1,6 +1,6 @@
 # Monitoramento de Senha no Feegow
 
-Script em Python que usa Selenium para monitorar e clicar automaticamente no botão "Chamar senha" no sistema Feegow. Ele verifica se há uma senha específica relacionada a sala de dilatação de pupila ("DILATA") e, caso detectado, emite um alerta sonoro com voz sintetizada.
+Script em Python que usa Selenium para monitorar e clicar automaticamente no botão "Chamar senha" no sistema Feegow. Ele verifica se há uma senha específica relacionada a sala de dilatação de pupila ("DILATAÇÃO") e, caso detectado, emite um alerta sonoro com voz sintetizada.
 
 ## Índice
 
@@ -17,7 +17,7 @@ Script em Python que usa Selenium para monitorar e clicar automaticamente no bot
 
 ## Descrição
 
-Este script automatiza o monitoramento da página de lista de espera no sistema Feegow, clicando no botão "Chamar senha" e verificando se existe um botão com a sigla "DILATA" no modal. Quando encontrado, o script emite um alerta sonoro com a mensagem "Atenção, Senha de Dilatação". Esse alerta utiliza voz sintetizada em português. O script foi configurado para operar em modo headless, facilitando a execução em segundo plano.
+Este script automatiza o monitoramento da página de lista de espera no sistema Feegow, clicando no botão "Chamar senha" e verificando se existe um botão com a sigla "DILATAÇÃO" no modal. Quando encontrado, o script emite um alerta sonoro com a mensagem "Atenção, Senha de Dilatação". Esse alerta utiliza voz sintetizada em português. O script foi configurado para operar em modo headless, facilitando a execução em segundo plano.
 
 ---
 
